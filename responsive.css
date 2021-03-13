@@ -1,0 +1,135 @@
+@media only screen and (max-width:1046px){
+    .section{
+        flex-direction: column-reverse;
+        margin-top: 100px;
+       
+        height:100%
+    }
+    #k{
+        width: 277px;
+    }
+    
+.secondhalf{
+
+}
+.thumbnail{
+    width:300px;
+
+
+}
+.box-main{
+    max-width: 70%;
+
+}
+}
+
+
+
+
+
+@media only screen and (max-width: 1140px){
+    .d{
+        FONT-SIZE: 8PX;
+        padding: 7px 17px;
+    }
+    .nav-list{
+        flex-direction: column;
+
+    }
+    .navbar{
+        flex-direction: column;
+        transition: all 0.7s ease-out;
+        height: 447px;
+
+    }
+    .rightnav{
+        text-align: center;
+        width: 46%;
+
+    }
+
+    #search{
+        width: 100%;
+        padding: 0px 30%;
+        font-size: 14px;
+    }
+    .burger{
+        display: block;
+
+    }   
+    .h-nav-resp{
+        height: 72px;
+    }
+    .v-class-resp{
+        opacity: 0;
+    }
+    .firsthalf{
+        margin-top: 50px;
+        margin-right: 20px;
+        margin-left: 10px;
+        text-align: center;
+    }
+    .text-resp-1{
+        font-size: 25px;
+    }
+   
+}
+@media only screen and (max-width: 1045px){
+    .section{
+        flex-direction: column-reverse;
+        margin-top: 200px;
+        margin-bottom: 100px;
+    }
+    
+}
+@media only screen and (max-width: 921px){
+    .text-small{
+        font-size:15px ;
+        text-align: left;
+        
+        }
+        .paras{
+    
+            padding: 0px 0px;
+        }
+    .section{
+        flex-direction: column-reverse;
+        margin-top: 100px;
+        margin-bottom: 100px;
+    }
+    #l{
+        width: 100px;
+    }
+    .box-main{
+        max-width: 100%;
+
+    }
+
+    .secondhalf{
+width: 165px;
+    }
+.firsthalf{
+    width:37%
+}
+#k{
+    widows: 150px;
+}
+.thumbnail{
+    width:291px;
+}
+}
+@media only screen and (max-width: 400px){
+    .thumbnail{
+        width: 197px;
+    }
+    #k{
+        width: 176px;
+    }
+
+
+}
+@media only screen and (max-width: 600px){
+    #m{
+        width: 180px;
+    }
+}
